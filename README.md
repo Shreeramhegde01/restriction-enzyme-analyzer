@@ -48,18 +48,16 @@ A Biopython-powered web tool for restriction enzyme analysis, cut site detection
 
 ## Table of Contents
 
-1. [Biological Significance](#biological-significance)
-2. [Real-World Applications](#real-world-applications)
-3. [Biological Examples](#biological-examples)
-4. [How Biopython Is Used](#how-biopython-is-used)
-5. [Features](#features)
-6. [Workflow](#workflow)
-7. [How to Run](#how-to-run)
+1. [How to Run](#how-to-run)
+2. [Biological Significance](#biological-significance)
+3. [Real-World Applications](#real-world-applications)
+4. [Biological Examples](#biological-examples)
+5. [How Biopython Is Used](#how-biopython-is-used)
+6. [Features](#features)
+7. [Workflow](#workflow)
 8. [Challenges and Solutions](#challenges-and-solutions)
 9. [Limitations and Future Work](#limitations-and-future-work)
-10. [Team](#team)
-11. [References](#references)
-
+10. [References](#references)
 ---
 
 ## Biological Significance
@@ -284,16 +282,6 @@ The `Bio.SeqIO` module handles multiple file formats:
 - Double digest optimization for cloning
 - Methylation-sensitive site prediction
 - Batch sequence analysis
-
----
-
-## Team
-
-| Name | Role |
-|------|------|
-| [Your Name] | Developer |
-| [Member 2] | Testing |
-| [Member 3] | Documentation |
 
 ---
 
